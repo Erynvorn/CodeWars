@@ -31,3 +31,5 @@ findNb(135440716410000)
 //(findNb(135440716410000), 4824)
 //(findNb(40539911473216), 3568)
 //The parameter of the function findNb (find_nb, find-nb, findNb) will be an integer m and you have to return the integer n such as n^3 + (n-1)^3 + ... + 1^3 = m if such a n exists or -1 if there is no such n.
+
+
